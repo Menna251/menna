@@ -1,0 +1,29 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.nav{
+	height:80px;
+	background-color:#86B1A0;
+}
+.ul{
+	list-style:none;
+	display:inline-block;
+}
+a{
+	color:#576D65;
+	display:inline-block;
+	text-decoration:none;
+	font-family: cursive;
+}
+li{
+	display:inline-block;
+	margin:30px;
+}
+.logo{
+	color:#F7FAF9;
+	font-family: cursive;
+	font-style:italic;
+	float:right;
+	margin:30px;
+}
